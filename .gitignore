@@ -161,3 +161,14 @@ cython_debug/
 
 # Vscode
 .vscode/
+data/.DS_Store
+codes/.DS_Store
+docs/.DS_Store
+model/.DS_Store
+*.onnx
+model/xmnlp-onnx-models/checker/vocab.txt
+model/xmnlp-onnx-models/dict.big.txt
+model/xmnlp-onnx-models/lexical/label2id.json
+model/xmnlp-onnx-models/lexical/vocab.txt
+model/xmnlp-onnx-models/sentence_vector/vocab.txt
+model/xmnlp-onnx-models/sentiment/vocab.txt
